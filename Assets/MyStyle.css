@@ -1,0 +1,88 @@
+body {
+  margin-top: 37px;
+  background-color: rgb(255, 73, 73);
+}
+.container {
+  height: 80px;
+}
+.nav-link {
+  color: black;
+}
+.LOGO {
+  justify-content: start;
+  margin-top: -30px;
+  width: auto;
+}
+.container2 {
+  margin: 0px auto;
+  justify-content: center;
+  position: relative;
+}
+.card {
+  border-radius: 0% 0% 100px 100px;
+  margin-top: -0px;
+  margin-left: 180px;
+  width: 600px;
+  height: 500px;
+  background-color: rgb(255, 255, 110);
+  z-index: 1;
+}
+.container2 img {
+  margin-top: -500px;
+  width: 100%;
+  height: 640px;
+  top: 130px;
+  left: 0;
+  z-index: 0;
+}
+.container3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  background-color: white;
+  height: 350px;
+  width: 100%;
+  color: black;
+  z-index: 2;
+}
+.content {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+.item {
+  border-radius: 20px;
+  background-color: rgb(190, 247, 31);
+  background-size: cover;
+  height: 8cm;
+  width: 8cm;
+  margin: 20px;
+}
+
+.item2 {
+  border-radius: 20px;
+  background-color: rgb(218, 16, 16);
+  background-size: cover;
+  height: 3cm;
+  width: 8cm;
+  margin: 20px;
+}
+
+.item3 {
+  border-radius: 20px;
+  background-color: rgb(218, 16, 16);
+  background-size: cover;
+  height: 15cm;
+  width: 12cm;
+  margin: 20px;
+}
+
+.footer {
+  background-color: rgb(218, 16, 16);
+  height: 350px;
+  width: auto;
+}
